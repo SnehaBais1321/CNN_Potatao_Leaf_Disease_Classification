@@ -9,7 +9,7 @@ potato-leaf-cnn-app/
 ├── server.py
 ├── requirements.txt
 ├── potato_cnn_model.keras
-├── classification_report.txt
+├── classification_report.txt   #test kiya
 └── static/
     ├── index.html
     ├── styles.css
